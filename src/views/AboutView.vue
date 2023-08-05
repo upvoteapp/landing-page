@@ -4,7 +4,7 @@
     <h1>About Upvote</h1>
     <br /> <br />
     <div class="cemter">
-    <p class="wrap" style="font-size: small;">Upvote is an attempt of making the fastest & most powerful machine control panel, allowing you to be able to have the same functionality as Pterodactyl being based on a custom engine, all written in the famous language, javascript. If you are interested in contributing to the project, click on the Github button below to be redirected to the project, otherwise, see you on the flip side!  </p>
+    <p class="wrap" style="font-size: small;">Upvote is an attempt of making a better version of Reddit using different frameworks to do so, with it being fully open-source. If you are interested in contributing to the project, click on the Github button below to be redirected to the project, otherwise, see you on the flip side!  </p>
     <br />
     <div class="flex justify-center space-x-4">
       <a href="https://github.com/upvoteapp/upvote" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-0.5 px-1.5 rounded">Github</a>
