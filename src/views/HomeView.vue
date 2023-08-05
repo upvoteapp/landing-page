@@ -1,7 +1,7 @@
 <template>
   <main>
     <br />
-    <h1>Welcome to a better version of reddit more powerful than reddit.<br /> Welcome to Upvote.</h1>
+    <h1>Welcome to a better version of Reddit.<br /> Welcome to Upvote.</h1>
     <br /> <br />
  <div class="flex justify-center space-x-4">
     <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-1.5 rounded">
